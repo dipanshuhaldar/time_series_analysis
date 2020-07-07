@@ -1,5 +1,7 @@
 ################# Time Series Analysis ##################
-print('hello world!')
+data("AirPassengers")
+AP = AirPassengers
+
 
 
 
