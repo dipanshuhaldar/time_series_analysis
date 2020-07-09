@@ -11,3 +11,4 @@ Time Series objects in R are characterised by a
 Table Header  | Second Header
 ------------- | -------------
 1. What is *Trend* in Time Series Data?    | A systematic change in Time Series data which does not appear to be periodic is known as *Trend*
+Cell 3        | Cell 4
