@@ -1,7 +1,7 @@
 # A repository of Exploratory Time Series Analysis and model building in *R* and *Python* 
 
 ### R
-! [Alt text] ('/project/uploads/R.jpg')
+! [Alt text] ('/cloud/project/uploads/R.jpg')
 
 Time Series objects in R are characterised by a 
 * *start*
