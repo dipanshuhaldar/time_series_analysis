@@ -2,7 +2,8 @@
 
 ### R
 
-![]('/cloud/project/uploads/R.jpg')
+![](/cloud/project/uploads/R.jpg)
+#! [Alt text] (/Users/Antonio/Documents/images/tufte.book.jpg)
 
 Time Series objects in R are characterised by a 
 * *start*
