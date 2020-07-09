@@ -2,6 +2,8 @@
 
 ### R
 
+image: ![]('/cloud/project/uploads/R.jpg')
+
 Time Series objects in R are characterised by a 
 * *start*
 * *end*
